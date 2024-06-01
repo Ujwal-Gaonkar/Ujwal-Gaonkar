@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujwal Gaonkar</h1>
-<h3 align="center">A passionate Passionate about data structures and algorithms with expertise in C++, Java, and JavaScript. Excited to collaborate and innovate.frontend developer from India</h3>
+<h3 align="center">Passionate about data structures and algorithms with expertise in C++, Java, and JavaScript. Excited to collaborate and innovate.frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-gaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="ujwal-gaonkar" /> </p>
 
