@@ -38,8 +38,9 @@
 <p align='center'>
 </p>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+IT+Under+Graduate+from+India;I'm+a+C++,+java+and+C+Programmer;I'm+Web+Developer+and+Designer" /></a>
-  
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+MCA+Postgraduate+from+India;I'm+a+C,+C++,+and+Java+Programmer;I'm+a+Web+Developer+and+Designer;I+have+strong+knowledge+in+DSA" />
+</a>
   
 </p>
 <!-- <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
@@ -103,7 +104,7 @@
   
   
   
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AchyutaMohapatra&theme=highcontrast&hide_border=true" width="350" /></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ujwal-gaonkar&theme=highcontrast&hide_border=true" width="350" /></a>
 
   
 
