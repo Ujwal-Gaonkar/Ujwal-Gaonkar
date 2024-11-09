@@ -49,22 +49,6 @@
 <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <br>  
     
-<h2> Github Stats </h2> -->
-  
-  
-  ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujwal-gaonkar&theme=dark&show_icons=true)
-  
-
-  
-  
-  
-  
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ujwal-gaonkar&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ujwal-gaonkar)](https://github.com/ujwal-gaonkar)
   
   
   
