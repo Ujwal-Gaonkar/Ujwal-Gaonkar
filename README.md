@@ -33,7 +33,7 @@
 
 <img align="right" width="400px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
 
-<h1 align="center">Hi 👋, I'm Achyuta Mohapatra</h1>
+<h1 align="center">Hi 👋, I'm Ujwal Gaonkar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <p align='center'>
 </p>
