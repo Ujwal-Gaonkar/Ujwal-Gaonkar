@@ -52,7 +52,6 @@
   
   
   
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ujwal-gaonkar&theme=highcontrast&hide_border=true" width="350" /></a>
 
   
 
