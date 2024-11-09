@@ -112,17 +112,24 @@
   <a href="https://www.ujwal-gaonkar.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ujwal-gaonkar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujwal-gaonkar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
   
-  ![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=ujwal-gaonkar&repo=github-visitors-badge&countColor=%237B1E7A)
-<a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
-<a href="#" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](#) 
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](#)
-[<img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](#) 
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](#) 
+![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=ujwal-gaonkar&repo=github-visitors-badge&countColor=%237B1E7A)
+
+<a href="https://ujwalgaonkar.engineer/" target="_blank">
+    <img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/ujwal-gaonkar-6746aa1a7/" target="_blank">
+    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://stackoverflow.com/users/19602290/ujwal-gaonkar" target="_blank">
+    <img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white">
+</a>
+<a href="https://github.com/Ujwal-Gaonkar" target="_blank">
+    <img alt="github" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ujwal-gaonkar" alt="Profile views counter">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-gaonkar" alt="arkaslittlemind" /> </p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
