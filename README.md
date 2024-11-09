@@ -122,7 +122,7 @@
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](#) 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AchyutaMohapatra" alt="arkaslittlemind" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwal-gaonkar" alt="arkaslittlemind" /> </p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
