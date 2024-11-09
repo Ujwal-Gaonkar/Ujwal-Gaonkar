@@ -48,15 +48,14 @@
 
 - 🔭 I’m currently working on Projects.
 - 🌱  I’m currently learning **Advance JavaScript(ES6), React** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-- 👯 I’m looking to collaborate on Frontend and Django Projects
+- 👯 I’m looking to collaborate on MERN Stack Projects
 - 🤔 I’m looking for help with React.js and DSA
-- 💬 Ask me about Technology Cinema Anime Music and Sports
-- 📫 How to reach me: achyutamohapatraofficial@outlook.com
+- 💬 Ask me about Technology Cinema Music and Sports
+- 📫 How to reach me: ujwalgaonkar07@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I say no to Tea & Coffee
-- ✌ Portfolio:- https://achyutamohapatra.netlify.app/ 
-- 💬 Any queries - https://achyuta.vercel.app/ 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GI1l2ljHN_Rq0Dj2YJxYMyNMUiqOF0Y7/view)
+- ✌ Portfolio:- https://ujwalgaonkar.engineer/ 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xQLDjxDKUBZUzCg1FBELMiMWEd8GuRlA/view)
 
 <h2>Languages and Tools </h2>
 <br>  
