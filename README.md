@@ -78,7 +78,7 @@
     <img src="https://komarev.com/ghpvc/?username=ujwal-gaonkar" alt="Profile views counter">
 </p>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
