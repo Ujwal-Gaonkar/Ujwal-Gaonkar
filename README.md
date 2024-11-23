@@ -78,14 +78,6 @@
     <img src="https://komarev.com/ghpvc/?username=ujwal-gaonkar" alt="Profile views counter">
 </p>
 
-
-
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br />
-<br /> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
-
-<!-- Footer image -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
 
