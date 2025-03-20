@@ -63,7 +63,7 @@
 
 ## 🔗 Connect with Me:
 
-<a href="https://ujwalgaonkar.engineer/" target="_blank">
+<a href="https://www.ujwal-gaonkar.me/" target="_blank">
     <img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/ujwal-gaonkar-6746aa1a7/" target="_blank">
