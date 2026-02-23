@@ -25,13 +25,13 @@ Here are the core projects that demonstrate my ability to build user-centric fro
 ### 🛍️ [MERN E-Commerce Platform](https://github.com/Ujwal-Gaonkar/MERN_ECOMMERCE_PROJECT)
 A production-ready e-commerce site featuring real-time product search, persistent shopping cart, JWT authentication, and secure Stripe payment integration. 
 
-### 🧠 Custom LRU Cache 
-Engineered a custom Least Recently Used (LRU) Cache in C++ with strictly $O(1)$ time complexity for read/write operations, successfully replicating the core memory eviction algorithms used in Redis.
+### 🧠 Custom LRU Cache | [Live Demo](https://lru-cache-one.vercel.app/)
+Engineered a custom Least Recently Used (LRU) Cache with strictly $O(1)$ time complexity for read/write operations, successfully replicating the core memory eviction algorithms used in Redis.
 
-### 🔖 Smart Bookmark Application
+### 🔖 Smart Bookmark Application | [Live Demo](https://smart-bookmark-app-ujwal.vercel.app/)
 A responsive, full-stack bookmarking tool allowing users to dynamically categorize, search, and manage web resources with automated metadata fetching via RESTful APIs.
 
-### 💸 [SplitEx Expense Manager](https://github.com/Ujwal-Gaonkar)
+### 💸 SplitEx Expense Manager | [Live Demo](https://split-ex.vercel.app/)
 Built an optimized expense-splitting solution using graph-based algorithms to reduce total settlement transactions by 35%.
 
 ---
