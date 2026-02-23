@@ -65,10 +65,10 @@ Built an optimized expense-splitting solution using graph-based algorithms to re
 
 <div align="center">
   <a href="https://github.com/Ujwal-Gaonkar">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Ujwal-Gaonkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Ujwal-Gaonkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Ujwal-Gaonkar">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-Gaonkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-Gaonkar&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
