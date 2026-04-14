@@ -63,11 +63,12 @@ Built an optimized expense-splitting solution using graph-based algorithms to re
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ujwal-Gaonkar&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ujwal-Gaonkar&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=Ujwal-Gaonkar&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ujwal-Gaonkar&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-Gaonkar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujwal-Gaonkar&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🔗 Let's Connect
